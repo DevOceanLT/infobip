@@ -1,12 +1,12 @@
 # Laravel Notifications Channel for Infobip
 
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/laravel-notification-channels/infobip.svg?style=flat-square)](https://packagist.org/packages/laravel-notification-channels/infobip)
+[![Latest Version on Packagist](https://img.shields.io/packagist/v/devoceanlt/infobip.svg?style=flat-square)](https://packagist.org/packages/devoceanlt/infobip)
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE.md)
-[![Build Status](https://img.shields.io/travis/laravel-notification-channels/infobip/master.svg?style=flat-square)](https://travis-ci.org/laravel-notification-channels/infobip)
+[![Build Status](https://img.shields.io/travis/devoceanlt/infobip/master.svg?style=flat-square)](https://travis-ci.org/devoceanlt/infobip)
 [![StyleCI](https://styleci.io/repos/285692286/shield)](https://styleci.io/repos/285692286)
-[![Quality Score](https://img.shields.io/scrutinizer/g/laravel-notification-channels/infobip.svg?style=flat-square)](https://scrutinizer-ci.com/g/laravel-notification-channels/infobip)
-[![Code Coverage](https://img.shields.io/scrutinizer/coverage/g/laravel-notification-channels/infobip/master.svg?style=flat-square)](https://scrutinizer-ci.com/g/laravel-notification-channels/infobip/?branch=master)
-[![Total Downloads](https://img.shields.io/packagist/dt/laravel-notification-channels/infobip.svg?style=flat-square)](https://packagist.org/packages/laravel-notification-channels/infobip)
+[![Quality Score](https://img.shields.io/scrutinizer/g/devoceanlt/infobip.svg?style=flat-square)](https://scrutinizer-ci.com/g/devoceanlt/infobip)
+[![Code Coverage](https://img.shields.io/scrutinizer/coverage/g/devoceanlt/infobip/master.svg?style=flat-square)](https://scrutinizer-ci.com/g/devoceanlt/infobip/?branch=master)
+[![Total Downloads](https://img.shields.io/packagist/dt/devoceanlt/infobip.svg?style=flat-square)](https://packagist.org/packages/devoceanlt/infobip)
 
 This package makes it easy to send notifications using [Infobip](https://www.infobip.com/) with Laravel 5.5+, 6.x and 7.x
 
@@ -30,7 +30,7 @@ This package makes it easy to send notifications using [Infobip](https://www.inf
 You can install the package via composer:
 
 ``` bash
-composer require laravel-notification-channels/infobip
+composer require devoceanlt/infobip
 ```
 
 ## Setting up your Infobip account
