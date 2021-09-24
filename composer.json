@@ -1,21 +1,21 @@
 {
-    "name": "laravel-notification-channels/infobip",
+    "name": "devoceanlt/infobip",
     "description": "Infobip notification channel for Laravel",
-    "homepage": "https://github.com/laravel-notification-channels/infobip",
+    "homepage": "https://github.com/devoceanlt/infobip",
     "license": "MIT",
     "authors": [
         {
-            "name": "Thomson Maguru",
-            "email": "cliff@nyumbanitechnologies.com",
-            "homepage": "https://nyumbanitechnologies.com",
-            "role": "Lead-Developer"
+            "name": "Marius Geležinis",
+            "email": "marius.gelezinis@devocean.lt",
+            "homepage": "http://www.devocean.lt",
+            "role": "Developer"
         }
     ],
     "require": {
         "php": ">=7.2",
         "illuminate/notifications": "~5.5 || ~6.0 || ~7.0 || ~8.0",
         "illuminate/support": "~5.5 || ~6.0 || ~7.0 || ~8.0",
-        "infobip/infobip-api-php-client": "dev-master"
+        "devoceanlt/infobip-api-php-client": "dev-master"
     },
     "require-dev": {
         "mockery/mockery": "^1.0",
